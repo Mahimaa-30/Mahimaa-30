@@ -4,7 +4,7 @@
   <br />
 
   ### 🎓 Master of Computer Applications
-  **Full-Stack Developer | Data Analyst | Machine Learning Enthusiast**
+  **Full-Stack Developer | Data Analyst | Machine Learning Enthusiast | Aspiring Cloud Architect**
 
   **Python · Java · JavaScript · Flask · MySQL · Machine Learning**
 
